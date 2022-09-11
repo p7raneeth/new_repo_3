@@ -7,3 +7,6 @@ def new_code():
 
 def added_another_module():
     print('dev2 has added another module')
+
+def remote_does_not_contain_this_function():
+    print('remote does not contain this function')
