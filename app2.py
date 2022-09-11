@@ -10,3 +10,6 @@ def added_another_module():
 
 def remote_does_not_contain_this_function():
     print('remote does not contain this function')
+    
+def testing_remote_and_local_differences():
+    print('local does not contain this code but another function')
