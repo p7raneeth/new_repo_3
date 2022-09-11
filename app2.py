@@ -4,3 +4,6 @@ parallelly in the remote other developers have pushed the code
 
 def new_code():
   print('added a new functionality')
+
+def added_another_module():
+    print('dev2 has added another module')
