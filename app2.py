@@ -7,3 +7,6 @@ def new_code():
 
 def added_another_module():
     print('dev2 has added another module')
+    
+def testing_remote_and_local_differences():
+    print('local does not contain this code but another function')
